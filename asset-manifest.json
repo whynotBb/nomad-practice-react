@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/nomad-practice-react/static/js/main.013899ee.js",
+    "main.css": "/nomad-practice-react/static/css/main.d812beb8.css",
+    "main.js": "/nomad-practice-react/static/js/main.d66bbc2b.js",
     "index.html": "/nomad-practice-react/index.html",
-    "main.013899ee.js.map": "/nomad-practice-react/static/js/main.013899ee.js.map"
+    "main.d812beb8.css.map": "/nomad-practice-react/static/css/main.d812beb8.css.map",
+    "main.d66bbc2b.js.map": "/nomad-practice-react/static/js/main.d66bbc2b.js.map"
   },
   "entrypoints": [
-    "static/js/main.013899ee.js"
+    "static/css/main.d812beb8.css",
+    "static/js/main.d66bbc2b.js"
   ]
 }

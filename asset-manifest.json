@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nomad-practice-react/static/js/main.fc908c44.js",
+    "main.js": "/nomad-practice-react/static/js/main.013899ee.js",
     "index.html": "/nomad-practice-react/index.html",
-    "main.fc908c44.js.map": "/nomad-practice-react/static/js/main.fc908c44.js.map"
+    "main.013899ee.js.map": "/nomad-practice-react/static/js/main.013899ee.js.map"
   },
   "entrypoints": [
-    "static/js/main.fc908c44.js"
+    "static/js/main.013899ee.js"
   ]
 }

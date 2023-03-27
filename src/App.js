@@ -7,11 +7,11 @@ function App() {
     <Router>
       <Routes>
         <Route
-          path={`${process.env.PUBLIC_URL}/movie/:id`}
+          basename={process.env.PUBLIC_URL}
+          path="/movie/:id"
           element={<Detail />}
         />
-        {/* 다이나믹 url -> ':' 를 붙여 주기 */}
-        <Route path={`${process.env.PUBLIC_URL}/`} element={<Home />} />
+        <Route path={process.env.PUBLIC_URL + "/"} element={<Home />} />
       </Routes>
     </Router>
   );
